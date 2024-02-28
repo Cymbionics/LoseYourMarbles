@@ -13471,3 +13471,5 @@ Make sure 'BP_BallCharacter_C' has been compiled for  Set EndLevelRef
 [2024.02.28-05.21.00:512][782]LogModuleManager: Shutting down and abandoning module OutputLog (795)
 [2024.02.28-05.21.00:515][782]LogModuleManager: Shutting down and abandoning module Documentation (793)
 [2024.02.28-05.21.00:515][782]LogModuleManager: Shutting down and abandoning module LiveCoding (791)
+[2024.02.28-05.54.31:852][782]LogDerivedDataCache: C:/Users/b012129m.STUDENT.000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2090 files in 3158 folders with total size 88 MiB.
+[2024.02.28-06.54.31:853][782]LogDerivedDataCache: C:/Users/b012129m.STUDENT.000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2151 files in 3225 folders with total size 103 MiB.
